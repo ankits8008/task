@@ -3,4 +3,4 @@ def ank(n):
 	while b<n:
 	    print (b)
 	    a,b=b,a+b
-ank(200)
+ank(600)
